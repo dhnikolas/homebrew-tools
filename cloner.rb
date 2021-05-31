@@ -1,4 +1,4 @@
-class Delta < Formula
+class Cloner < Formula
   desc "Tool for quick clone layouts repo"
   homepage "https://github.com/dhnikolas/mtsbf-cloner"
   url "https://github.com/dhnikolas/mtsbf-cloner/releases/download/v0.0.1/cloner-0.0.1.tar.gz"
