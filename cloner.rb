@@ -7,8 +7,6 @@ class Cloner < Formula
   bottle :unneeded
 
   def install
-    out_file = File.new("#{Dir.home}/.clonerconfig", "w")
-    out_file.puts("{}")
     bin.install "cloner"
   end
 
