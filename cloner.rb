@@ -2,8 +2,8 @@
 class Cloner < Formula
   desc "Tool for quick clone layouts repo"
   homepage "https://github.com/dhnikolas/mtsbf-cloner"
-  url "https://github.com/dhnikolas/mtsbf-cloner/releases/download/v.0.0.14/cloner-v.0.0.14.tar.gz"
-  sha256 "1856e8266ef60221896b4c7ef08fcafb6f4490aa7e39e688d8d6966c183c4a66 cloner.tar.gz"
+  url "https://github.com/dhnikolas/mtsbf-cloner/releases/download/v.0.0.15/cloner-v.0.0.15.tar.gz"
+  sha256 "e78c3283c746d5090bb0230c4aa92206caeab6471e13bf2edf856dc80c86d8bf"
 
   bottle :unneeded
 
