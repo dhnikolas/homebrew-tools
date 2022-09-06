@@ -2,8 +2,8 @@
 class Easymap < Formula
   desc "Tool for quick clone layouts repo"
   homepage "https://github.com/dhnikolas/easymap"
-  url "https://github.com/dhnikolas/easymap/releases/download/v0.0.2/easymap-v0.0.2-osx.tar.gz"
-  sha256 "0c9d1523e29b5a605317511de845f2aa798c1a46aeaa0347b27384c27d53a172"
+  url "https://github.com/dhnikolas/easymap/releases/download/v0.0.3/easymap-v0.0.3-osx.tar.gz"
+  sha256 "bdf483c741b85d1c478cf3c8a3e85ffef13b5d062d8e43b6ef097d8571e21233"
 
   def install
     out_file = File.new("#{Dir.home}/.easymapconfig", "w")
