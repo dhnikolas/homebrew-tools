@@ -2,8 +2,8 @@
 class WarpServer < Formula
   desc "Tool for quick clone layouts repo"
   homepage "https://github.com/dhnikolas/warp-server"
-  url "https://github.com/dhnikolas/warp-server/releases/download/v0.0.9/warp-server-v0.0.9-osx.tar.gz"
-  sha256 "e69f4d793eb88b0bb6f682a45a4d588bc41a6116107d02341be812b7a7829a01"
+  url "https://github.com/dhnikolas/warp-server/releases/download/v0.0.10/warp-server-v0.0.10-osx.tar.gz"
+  sha256 "d14f64986d98c6efd8941573b1886d94242dfc39a44f21abfa4920f40af18346"
 
   def install
     out_file = File.new("#{Dir.home}/.warp-server.yaml", "w")
